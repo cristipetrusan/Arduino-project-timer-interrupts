@@ -1,4 +1,5 @@
 //Petrusan George-Cristian
+//
 #define HISTEREZA 0.5
 #define TEMPERATURA 35
 #define FOSC 16000000 // Clock Speed
